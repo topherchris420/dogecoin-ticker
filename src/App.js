@@ -33,7 +33,7 @@ const App = () => {
         <PriceCard type="current" price={ticker.last} />
       </div>
       <p>
-        Dogecoin price farts every 10 seconds from{' '}
+        👫👫👫👫.eth from{' '}
         <a href="https://wazirx.com/">WazirX API</a>
       </p>
     </div>
